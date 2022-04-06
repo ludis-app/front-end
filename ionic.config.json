@@ -1,0 +1,7 @@
+{
+  "name": "Ludis",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
